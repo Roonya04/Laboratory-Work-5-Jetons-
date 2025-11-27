@@ -1,0 +1,30 @@
+{
+  "admin_wallet": "0QDzFj9kh8VEyU3FJ9JFxP8yrG5ksw3mVfhg_G9zzZK3aRtZ",
+  "jettons_created": 3,
+  "jettons": {
+    "binary_n": {
+      "name": "Binary Style Token",
+      "symbol": "BST",
+      "address": "EQBinary Style Token...",
+      "metadata_url": "https://raw.githubusercontent.com/Roonya04/Laboratory-Work-5-Jetons-/main/metadata/binary_n.json",
+      "amount_style": "n",
+      "image_format": "binary"
+    },
+    "base64_total": {
+      "name": "Total Supply Token",
+      "symbol": "TST",
+      "address": "EQTotal Supply Token...",
+      "metadata_url": "https://raw.githubusercontent.com/Roonya04/Laboratory-Work-5-Jetons-/main/metadata/base64_total.json",
+      "amount_style": "n-of-total",
+      "image_format": "base64"
+    },
+    "base64_percent": {
+      "name": "Percentage Token",
+      "symbol": "PCT",
+      "address": "EQPercentage Token...",
+      "metadata_url": "https://raw.githubusercontent.com/Roonya04/Laboratory-Work-5-Jetons-/main/metadata/base64_percent.json",
+      "amount_style": "%",
+      "image_format": "base64"
+    }
+  }
+}
