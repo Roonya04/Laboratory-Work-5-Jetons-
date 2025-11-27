@@ -1,9 +1,0 @@
-{
-  "name": "Limited Edition Token",
-  "description": "Токен с Base64 изображением и отображением доли",
-  "image_data": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgICAgICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNDAiIGZpbGw9IiM0Q0FGNTAiLz4KICAgICAgICAgICAgPHRleHQgeD0iNTAiIHk9IjU1IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJ3aGl0ZSIgZm9udC1zaXplPSIxNCI+VE9OPC90ZXh0PgogICAgICAgIDwvc3ZnPg==",
-  "symbol": "LET",
-  "decimals": "9",
-  "amount_style": "n-of-total",
-  "render_type": "currency"
-}

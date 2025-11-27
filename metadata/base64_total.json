@@ -1,9 +1,0 @@
-{
-  "name": "Total Supply Token",
-  "description": "Токен с отображением доли от общего количества",
-  "image_data": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgICAgICAgPHJlY3Qgd2lkdGg9IjEwMCIgaGVpZ2h0PSIxMDAiIGZpbGw9IiMyMTk2RjMiLz4KICAgICAgICAgICAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iMzUiIGZpbGw9IiNGRkMxMDciLz4KICAgICAgICAgICAgPHRleHQgeD0iNTAiIHk9IjU4IiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSJibGFjayIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9ImJvbGQiPlQ8L3RleHQ+CiAgICAgICAgPC9zdmc+",
-  "symbol": "TST",
-  "decimals": "9",
-  "amount_style": "n-of-total",
-  "render_type": "currency"
-}
