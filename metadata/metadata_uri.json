@@ -1,0 +1,9 @@
+{
+    "name": "Labuba Green",
+    "description": "Второй жетон со ссылкой на изображение и отображением 'X из Y'",
+    "image": "https://raw.githubusercontent.com/Roonya04/Laboratory-Work-5-Jetons-/main/metadata/labuba_green.jpg",
+    "symbol": "LBG",
+    "decimals": "9",
+    "amount_style": "n-of-total",
+    "render_type": "currency"
+}
