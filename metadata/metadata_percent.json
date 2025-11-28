@@ -1,0 +1,9 @@
+{
+    "name": "Labuba King",
+    "description": "Третий жетон с процентным отображением доли от общего количества",
+    "image_data": "NDA0OiBOb3QgRm91bmQ=",
+    "symbol": "LBK",
+    "decimals": "9",
+    "amount_style": "%",
+    "render_type": "currency"
+}
